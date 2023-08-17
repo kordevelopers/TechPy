@@ -1,1 +1,1 @@
-# TechPy
+# TechPy is Sample Project.
